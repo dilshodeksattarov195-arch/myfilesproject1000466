@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usercpdate",
+        "uuid": 4406962,
+        "checksum": "vc8pf"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
